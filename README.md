@@ -12,7 +12,7 @@ A desktop application to download, preview, and clip YouTube videos. This projec
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/YouTube-Clipper.git
+   git clone https://github.com/MagicalStorm/YouTube-Clipper.git
    cd YouTube-Clipper
     ```
 2. **Install Dependencies: Ensure you have Python 3.8+ installed. Then run:**

@@ -17,7 +17,7 @@ A desktop application to download, preview, and clip YouTube videos. This projec
     ```
 2. **Install Dependencies: Ensure you have Python 3.8+ installed. Then run:**
    ```bash
-   pip install pygame moviepy yt-dlp
+   pip install pygame moviepy==1.0.3 yt-dlp
    ```
 3. **FFmpeg Setup:**
 - Make sure ffmpeg.exe is included in the project directory or installed on your system. If you're running the packaged .exe, FFmpeg is already bundled.
